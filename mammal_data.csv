@@ -1,0 +1,19 @@
+Name,CanFly,HaveLegs,HaveWings,class
+human,no,yes,No,mammals
+python,no,no,No,non-mammals
+salmon,no,no,No,non-mammals
+whale,no,no,No,mammals
+frog,no,yes,No,non-mammals
+komodo,no,yes,No,non-mammals
+bat,yes,yes,Yes,mammals
+pigeon,yes,yes,Yes,non-mammals
+cat,no,yes,No,mammals
+leopard shark,no,no,No,non-mammals
+turtle,no,yes,No,non-mammals
+penguin,no,yes,Yes,non-mammals
+porcupine,no,yes,No,mammals
+eel,no,no,No,non-mammals
+salamander,no,yes,No,non-mammals
+gila monster,no,yes,No,non-mammals
+platypus,no,yes,No,mammals
+owl,yes,yes,Yes,non-mammals
